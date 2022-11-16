@@ -1,8 +1,8 @@
-package org.example.employee;
+package com.skypro.libraries.employee;
 
+import com.skypro.libraries.Exception.ExceptionBadRequest;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.text.WordUtils;
-import org.example.Exseption.ExceptionBadRequest;
 
 import java.util.Objects;
 

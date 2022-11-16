@@ -1,7 +1,7 @@
-package org.example;
+package com.skypro.libraries;
 
-import org.example.employee.Employee;
-import org.example.employee.EmployeeBook;
+import com.skypro.libraries.employee.EmployeeBook;
+import com.skypro.libraries.employee.Employee;
 
 public class Main {
     public static void main(String[] args) {

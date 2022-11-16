@@ -1,4 +1,4 @@
-package org.example.Exseption;
+package com.skypro.libraries.Exception;
 
 public class ExceptionBadRequest extends RuntimeException{
     public ExceptionBadRequest() {

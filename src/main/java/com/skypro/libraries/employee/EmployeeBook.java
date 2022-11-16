@@ -1,4 +1,4 @@
-package org.example.employee;
+package com.skypro.libraries.employee;
 
 public class EmployeeBook extends Employee{
     public static Employee employees[] = new Employee[10];
